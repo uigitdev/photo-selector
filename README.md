@@ -10,3 +10,5 @@ Important:
  3. Add the CropImageActivity to the Manifest file.
 
 ![ezgif-2-a7baa244904e](https://user-images.githubusercontent.com/46577836/111850842-a758dc00-8911-11eb-8868-e89d83722136.gif)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=uigitdev) 
